@@ -1,0 +1,8 @@
+{
+    "database_test":{
+        "host":"localhost",
+        "user":"cm9vdA==",
+        "passwd":"cm9vdA==",
+        "db":"db"
+    }
+}
